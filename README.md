@@ -20,6 +20,7 @@ and make use of the robot features.
  - [x] walk forward
  - [x] walk backward
  - [x] walk stop
+ - [x] infared sensors
 
 
 ## References
